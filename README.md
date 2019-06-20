@@ -21,7 +21,7 @@
 
 
 ## 2.Detection and Tracking Direction
-### 2.1 [R-CNN](https://github.com/blueskyM01/R-CNN)
+### 2.1 [R-CNN](https://github.com/blueskyM01/R-CNN) Create by [blueskyM01](https://github.com/blueskyM01)
 
 
 ### 2.2 [Fast R-CNN]()
