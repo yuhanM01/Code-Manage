@@ -51,4 +51,4 @@
 
 ### 4.3 [Common-network-description](https://github.com/yuhanM01/Common-network-description) Create by [yuhanM01](https://github.com/yuhanM01)
 
-### 4.4 [classify](ResNet152) Create by [blueskyM01](https://github.com/blueskyM01)
+### 4.4 [classify](https://github.com/blueskyM01/SimilarityCompute_610) Create by [blueskyM01](https://github.com/blueskyM01)
