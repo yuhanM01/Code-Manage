@@ -57,4 +57,4 @@
 * 4.7 [Python_and_CPlusPlus_Transform](https://github.com/blueskyM01/Python_and_CPlusPlus_Transform) Create by [blueskyM01](https://github.com/blueskyM01)
 
 ## 5. 常用API函数说明
-* [Python语言的](https://github.com/blueskyM01/Python_DeepLearning_Function_Introduction)
+* [Python语言的](https://github.com/blueskyM01/Python_DeepLearning_Function_Introduction) Create by [blueskyM01](https://github.com/blueskyM01)
