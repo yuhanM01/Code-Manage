@@ -32,8 +32,8 @@
     * [my_Faster R-CNN](https://github.com/blueskyM01/m4_Faster_R-CNN)
 
 
-* 2.4 [YOLO-V3](https://github.com/wizyoung/YOLOv3_TensorFlow)
-
+* 2.4 [YOLO-V3]()
+    * [Demo from github](https://github.com/wizyoung/YOLOv3_TensorFlow)
 
 * 2.5 [Detecion-GAN]()
 
