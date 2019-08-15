@@ -57,6 +57,7 @@
 
 * 4.6 [Tool_defect_detection](https://github.com/blueskyM01/Tool_defect_detection) Create by [blueskyM01](https://github.com/blueskyM01)
 * 4.7 [Python_and_CPlusPlus_Transform](https://github.com/blueskyM01/Python_and_CPlusPlus_Transform) Create by [blueskyM01](https://github.com/blueskyM01)
+* 4.8 [刀具特征点标注](https://github.com/blueskyM01/Label_Annotate_Tool) Create by [blueskyM01](https://github.com/blueskyM01)
 
 ## 5. 常用API函数说明
 * [Python语言的](https://github.com/blueskyM01/Python_DeepLearning_Function_Introduction) Create by [blueskyM01](https://github.com/blueskyM01)
