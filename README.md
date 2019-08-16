@@ -44,7 +44,7 @@
 
 ## 4. My project
 * 4.1 [YYDLTOOLS](https://github.com/yuhanM01/Qt-demo) Create by [yuhanM01](https://github.com/yuhanM01)
-    * 4.1.1 [OpenVideo](https://github.com/blueskyM01/ImageProcessTool) [blueskyM01](https://github.com/blueskyM01)
+    * 4.1.1 [OpenVideo](https://github.com/blueskyM01/ImageProcessTool) Create by [blueskyM01](https://github.com/blueskyM01)
 
 * 4.2 [six ten project](https://github.com/blueskyM01/six-ten-project) Create by [blueskyM01](https://github.com/blueskyM01)
 
