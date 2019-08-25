@@ -33,7 +33,7 @@
 
 
 * 2.4 [YOLO-V3]()
-    * [Demo from github](https://github.com/wizyoung/YOLOv3_TensorFlow)
+    * [Demo from github](https://github.com/blueskyM01/YOLOv3_TensorFlow)
     * [YOLO_GAN](https://github.com/blueskyM01/YOLO_GAN) Create by [blueskyM01](https://github.com/blueskyM01)
 
 * 2.5 [Detecion-GAN]()
