@@ -42,6 +42,10 @@
 ## 3.RL Direction
 * 3.1 [RL_Trajectors_Prediction](https://github.com/yuhanM01/RL_Trajectors_Prediction) Create by [yuhanM01](https://github.com/yuhanM01)
 
+## 4.Action Detection
+* 4.1 [SSN]() 
+    * [demo](https://github.com/blueskyM01/action-detection) Create by [blueskyM01](https://github.com/blueskyM01)
+    * [AD]() create by [blueskyM01](https://github.com/blueskyM01)
 
 ## 4. My project
 * 4.1 [YYDLTOOLS](https://github.com/yuhanM01/Qt-demo) Create by [yuhanM01](https://github.com/yuhanM01)
